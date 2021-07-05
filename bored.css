@@ -1,0 +1,33 @@
+body{
+  text-align: center;
+  background: linear-gradient(
+    to right,
+    #564a4a 0%,
+    #f2dac3 100%
+    )
+}
+a{
+  text-decoration: none;
+}
+h1{
+  font-size: 60px;
+}
+h2{
+  font-size: 30px;
+}
+.btn{
+  font-size: 20px;
+  margin: 10px;
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  border: 5px solid;
+  border-radius: 40%;
+}
+.set{
+margin: 0 300px;
+}
+
+.anim{
+  opacity: 0.5;
+}
