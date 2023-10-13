@@ -6,9 +6,6 @@ for (var i = 0;i < document.querySelectorAll(".btn").length; i++) {
 }
 
 
-// alternate way
-// event => {
-//   sound(event.target.innerText)
 
 
 document.addEventListener('keypress', function(e){
